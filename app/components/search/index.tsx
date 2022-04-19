@@ -22,7 +22,7 @@ export const Search: FC<SearchProps> = ({
 
     <input
       className="search__input"
-      type="search"
+      type="text"
       placeholder={placeholder}
       onChange={onSearchTermChange}
     />
