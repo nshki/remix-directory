@@ -1,0 +1,22 @@
+{
+  "stacks": [
+    {
+      "name": "The Blues Stack",
+      "description": "Deployed to the edge (distributed) with a long-running Node.js server and PostgreSQL database. Intended for large and fast production-grade applications serving millions of users.",
+      "tags": ["official", "server", "node", "postgresql", "fly"],
+      "url": "https://github.com/remix-run/blues-stack"
+    },
+    {
+      "name": "The Indie Stack",
+      "description": "Deployed to a long-running Node.js server with a persistent SQLite database. This stack is great for websites with dynamic data that you control (blogs, marketing, content sites). It's also a perfect, low-complexity bootstrap for MVPs, prototypes, and proof-of-concepts that can later be updated to the Blues stack easily.",
+      "tags": ["official", "server", "node", "sqlite", "fly"],
+      "url": "https://github.com/remix-run/indie-stack"
+    },
+    {
+      "name": "The Grunge Stack",
+      "description": "Deployed to a serverless function running Node.js with DynamoDB for persistance. Intended for folks who want to deploy a production-grade application on AWS infrastructure serving millions of users.",
+      "tags": ["official", "serverless", "node", "dynamodb", "aws"],
+      "url": "https://github.com/remix-run/grunge-stack"
+    }
+  ]
+}

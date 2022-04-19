@@ -1,0 +1,74 @@
+@import url("https://rsms.me/inter/inter.css");
+
+:root {
+  --color-white: #fff;
+  --color-gray: #292929;
+  --color-blue: #59a8ff;
+  --color-green: #6bd968;
+  --color-yellow: #fecc1b;
+  --color-purple: #5468ff;
+
+  --color-background: #121212;
+  --color-text: #d0d0d0;
+  --color-input: #090a11;
+
+  --font-main: "Inter", sans-serif;
+  --font-mono: SFMono-Regular, 'Consolas', 'Liberation Mono', 'Menlo',
+    monospace;
+
+  --radius: 0.625rem;
+  --radius-full: 100rem;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+html {
+  font-family: var(--font-main);
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: var(--color-background);
+  line-height: 1.5;
+}
+
+img, svg {
+  display: block;
+  max-width: 100%;
+}
+
+p, ul, ol {
+  font-size: 1;
+  color: var(--color-text);
+}
+
+button, input, textarea, select {
+  font: inherit;
+}
+
+a {
+  color: var(--color-blue);
+}
+
+a:is(:focus, :hover) {
+  opacity: 0.8;
+}
+
+:focus {
+  outline: none;
+}
+
+@supports (font-variation-settings: normal) {
+  :root {
+    --font-main: "Inter var", sans-serif;
+  }
+}

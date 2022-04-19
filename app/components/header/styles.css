@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 3rem 0;
+}
+
+.header__logo {
+  font-size: 1.5rem;
+  font-weight: 900;
+  text-decoration: none;
+  color: var(--color-white);
+}
+
+.header__items {
+  padding: 0;
+  list-style: none;
+}
+
+.header__link {
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--color-white);
+}
+
+.header__link:is(:focus, :hover) {
+  text-decoration: underline;
+}

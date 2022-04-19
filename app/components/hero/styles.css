@@ -1,0 +1,34 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3rem;
+  padding: 5rem 0;
+}
+
+.hero__heading {
+  max-width: 60rem;
+  font-size: 2rem;
+  font-weight: 900;
+  text-align: center;
+  color: var(--color-white);
+}
+
+.hero a {
+  text-decoration: underline;
+  color: var(--color-green);
+}
+
+.hero a:first-of-type {
+  color: var(--color-yellow);
+}
+
+@media (min-width: 48rem) {
+  .hero {
+    padding: 10rem 0;
+  }
+
+  .hero__heading {
+    font-size: 3rem;
+  }
+}
