@@ -15,7 +15,8 @@ export const meta: MetaFunction = () => ({
   viewport: 'width=device-width,initial-scale=1',
   ...title('Remix Directory'),
   ...description('Find the Remix stack that works for you.'),
-  ...image('https://remix.directory/assets/og.png')
+  ...image('https://remix.directory/assets/og.png'),
+  'twitter:card': 'summary_large_image'
 })
 
 export const links: LinksFunction = () => [
