@@ -1,3 +1,5 @@
+![](https://github.com/nshki/remix-directory/blob/main/public/assets/og.png?raw=true)
+
 # Remix Directory
 
 This is a community-powered directory of [Remix stacks](https://remix.run/stacks).
