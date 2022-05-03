@@ -65,6 +65,12 @@
       "description": "The Remix Stack for deploying to Kubernetes, talking to an existing Postgres db, authentication, testing, linting, formatting, etc.",
       "tags": ["kubernetes", "prisma", "tailwind", "cypress", "msw", "vitest", "testing library", "prettier", "eslint", "typescript"],
       "url": "https://github.com/BenMcH/techno-stack"
+    },
+    {
+      "name": "K-pop Stack",
+      "description": "A template for deploying Remix to Netlify Edge with Supabase",
+      "tags": ["netlify", "supabase", "tailwind", "cypress", "testing library", "prettier", "eslint", "typescript"],
+      "url": "https://github.com/netlify-templates/kpop-stack"
     }
   ]
 }
