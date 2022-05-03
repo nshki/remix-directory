@@ -68,7 +68,7 @@
     },
     {
       "name": "K-pop Stack",
-      "description": "A template for deploying Remix to Netlify Edge",
+      "description": "A template for deploying Remix to Netlify Edge with Supabase",
       "tags": ["netlify", "supabase", "tailwind", "cypress", "testing library", "prettier", "eslint", "typescript"],
       "url": "https://github.com/netlify-templates/kpop-stack"
     }
