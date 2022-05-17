@@ -71,6 +71,12 @@
       "description": "A template for deploying Remix to Netlify Edge with Supabase",
       "tags": ["netlify", "supabase", "tailwind", "cypress", "testing library", "prettier", "eslint", "typescript"],
       "url": "https://github.com/netlify-templates/kpop-stack"
+    },
+    {
+      "name": "RockSpec Stacks",
+      "description": "A template for deploying a Progressive Web App with a persistent database, testing and authentication suites. A fun ride through Remix!",
+      "tags": ["fly", "postgresql", "prisma", "cypress", "pwa", "prettier", "eslint", "typescript", "tailwind"],
+      "url": "https://github.com/ShafSpecs/rockspec-stack"
     }
   ]
 }
