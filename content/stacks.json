@@ -81,7 +81,7 @@
     {
       "name": "Chop Suey Stack",
       "description": "A template for deploying Remix to Fly with EdgeDB. Comes with Clerk for simple authentication and opinionated configs for TypeScript, Prettier, and ESLint.",
-      "tags": ["fly", "edgedb", "clerk", "prisma", "cypress", "pwa", "prettier", "eslint", "typescript", "tailwind", "zod", "msw", "testing library", "github actions", "react hot toast", "react icons"],
+      "tags": ["fly", "edgedb", "clerk", "prisma", "cypress", "prettier", "eslint", "typescript", "tailwind", "zod", "msw", "testing library", "github actions", "react hot toast", "react icons"],
       "url": "https://github.com/jkcorrea/remix-chop-suey-stack"
     }
   ]
