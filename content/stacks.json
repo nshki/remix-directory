@@ -77,6 +77,12 @@
       "description": "A template for deploying a Progressive Web App with a persistent database, testing and authentication suites. A fun ride through Remix!",
       "tags": ["fly", "postgresql", "prisma", "cypress", "pwa", "prettier", "eslint", "typescript", "tailwind"],
       "url": "https://github.com/ShafSpecs/rockspec-stack"
+    },
+    {
+      "name": "DnB Stack",
+      "description": "The Remix Stack for deploying to Vercel with testing, linting, formatting, structure and mock for 3rd party API integration.",
+      "tags": ["vercel", "github actions", "vitest", "testing library", "husky", "prisma", "cypress", "prettier", "eslint", "typescript", "tailwind"],
+      "url": "https://github.com/robipop22/dnb-stack"
     }
   ]
 }
