@@ -77,6 +77,12 @@
       "description": "A template for deploying a Progressive Web App with a persistent database, testing and authentication suites. A fun ride through Remix!",
       "tags": ["fly", "postgresql", "prisma", "cypress", "pwa", "prettier", "eslint", "typescript", "tailwind"],
       "url": "https://github.com/ShafSpecs/rockspec-stack"
+    },
+    {
+      "name": "Supa Fly Stack",
+      "description": "A template for deploying Remix to Fly with Supabase. Comes with a healthcheck endpoint for Fly backups region fallbacks, Magic Link login, and form schema validation all built in.",
+      "tags": ["fly", "supabase", "prisma", "cypress", "msw", "prettier", "eslint", "typescript", "tailwind", "vitest", "testing library", "github actions", "magic link login"],
+      "url": "https://github.com/rphlmr/supa-fly-stack"
     }
   ]
 }
