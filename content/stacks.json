@@ -79,6 +79,11 @@
       "url": "https://github.com/ShafSpecs/rockspec-stack"
     },
     {
+      "name": "Chop Suey Stack",
+      "description": "A template for deploying Remix to Fly with EdgeDB. Comes with Clerk for simple authentication and opinionated configs for TypeScript, Prettier, and ESLint.",
+      "tags": ["fly", "edgedb", "clerk", "prisma", "cypress", "prettier", "eslint", "typescript", "tailwind", "zod", "msw", "testing library", "github actions", "react hot toast", "react icons"],
+      "url": "https://github.com/jkcorrea/remix-chop-suey-stack"
+    },
       "name": "DnB Stack",
       "description": "The Remix Stack for deploying to Vercel with testing, linting, formatting, structure and mock for 3rd party API integration.",
       "tags": ["vercel", "github actions", "vitest", "testing library", "husky", "prisma", "cypress", "prettier", "eslint", "typescript", "tailwind"],
