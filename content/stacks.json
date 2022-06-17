@@ -89,6 +89,12 @@
       "description": "The Remix Stack for deploying to Vercel with testing, linting, formatting, structure and mock for 3rd party API integration.",
       "tags": ["vercel", "github actions", "vitest", "testing library", "husky", "prisma", "cypress", "prettier", "eslint", "typescript", "tailwind"],
       "url": "https://github.com/robipop22/dnb-stack"
+    },
+    {
+      "name": "Eurodance Stack",
+      "description": "The Remix Stack for GraphQL developers, brought by Vulcan.",
+      "tags": ["vercel", "graphql", "storybook", "mongo", "codesandbox"],
+      "url": "https://github.com/VulcanJS/eurodance-stack"
     }
   ]
 }
