@@ -95,6 +95,12 @@
       "description": "The Remix Stack for GraphQL developers, brought by Vulcan.",
       "tags": ["vercel", "graphql", "storybook", "mongo", "codesandbox"],
       "url": "https://github.com/VulcanJS/eurodance-stack"
+    },
+    {
+      "name": "New Wave Stack",
+      "description": "Custom Remix stack using Clerk for authentication and full user management.",
+      "tags": ["clerk", "fauna", "netlify", "tailwind", "cypress", "jest", "testing library", "eslint", "typescript"],
+      "url": "https://github.com/VulcanJS/eurodance-stack"
     }
   ]
 }
