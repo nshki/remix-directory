@@ -95,6 +95,12 @@
       "description": "The Remix Stack for GraphQL developers, brought by Vulcan.",
       "tags": ["vercel", "graphql", "storybook", "mongo", "codesandbox"],
       "url": "https://github.com/VulcanJS/eurodance-stack"
+    },
+    {
+      "name": "Remix Render Stack",
+      "description": "A Remix stack for deploying remix to render.com with postgres",
+      "tags": ["prism", "render.com", "postgresql"],
+      "url": "https://github.com/TerribleDev/remix-render"
     }
   ]
 }
