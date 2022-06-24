@@ -95,6 +95,12 @@
       "description": "The Remix Stack for GraphQL developers, brought by Vulcan.",
       "tags": ["vercel", "graphql", "storybook", "mongo", "codesandbox"],
       "url": "https://github.com/VulcanJS/eurodance-stack"
+    },
+    {
+      "name": "Techno Stack",
+      "description": "The Remix Stack for deploying to Kubernetes, talking to an existing Postgres Db, authentication, testing, linting, formatting, etc.",
+      "tags": ["kubernetes", "docker", "github actions", "prisma", "tailwind", "cypress", "msw", "vitest", "testing library", "eslint", "typescript"],
+      "url": "https://github.com/BenMcH/techno-stack"
     }
   ]
 }
