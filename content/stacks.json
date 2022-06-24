@@ -95,6 +95,12 @@
       "description": "The Remix Stack for GraphQL developers, brought by Vulcan.",
       "tags": ["vercel", "graphql", "storybook", "mongo", "codesandbox"],
       "url": "https://github.com/VulcanJS/eurodance-stack"
+    },
+    {
+      "name": "Minimal House Remix Stack",
+      "description": "The Remix Stack to setup Remix with minimal typsescript, tailwind, linting, and formatting. Worry about storage, testing, deployment later.",
+      "tags": ["eslint", "typescript", "prettier", "tailwind"],
+      "url": "https://github.com/VulcanJS/eurodance-stack"
     }
   ]
 }
