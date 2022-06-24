@@ -100,7 +100,7 @@
       "name": "New Wave Stack",
       "description": "Custom Remix stack using Clerk for authentication and full user management.",
       "tags": ["clerk", "fauna", "netlify", "tailwind", "cypress", "jest", "testing library", "eslint", "typescript"],
-      "url": "https://github.com/VulcanJS/eurodance-stack"
+      "url": "https://github.com/charles-clerk-dev/new-wave-stack"
     }
   ]
 }
