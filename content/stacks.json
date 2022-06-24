@@ -95,6 +95,12 @@
       "description": "The Remix Stack for GraphQL developers, brought by Vulcan.",
       "tags": ["vercel", "graphql", "storybook", "mongo", "codesandbox"],
       "url": "https://github.com/VulcanJS/eurodance-stack"
+    },
+    {
+      "name": "Indie Thin Stack",
+      "description": "The Remix Stack for deploying to Fly or simple Node server with authentication, testing, linting, formatting, etc. Great for integrating with headless CMS",
+      "tags": ["fly", "docker", "github actions", "tailwind", "cypress", "msw", "vitest", "testing library", "prettier", "eslint", "typescript"],
+      "url": "https://github.com/VulcanJS/eurodance-stack"
     }
   ]
 }
