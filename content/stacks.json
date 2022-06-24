@@ -100,7 +100,7 @@
       "name": "Minimal House Remix Stack",
       "description": "The Remix Stack to setup Remix with minimal typsescript, tailwind, linting, and formatting. Worry about storage, testing, deployment later.",
       "tags": ["eslint", "typescript", "prettier", "tailwind"],
-      "url": "https://github.com/VulcanJS/eurodance-stack"
+      "url": "https://github.com/BogDAAAMN/minimal-remix-stack"
     }
   ]
 }
