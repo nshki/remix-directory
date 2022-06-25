@@ -119,6 +119,12 @@
       "description": "Custom Remix stack using Clerk for authentication and full user management.",
       "tags": ["clerk", "fauna", "netlify", "tailwind", "cypress", "jest", "testing library", "eslint", "typescript"],
       "url": "https://github.com/charles-clerk-dev/new-wave-stack"
+    },
+    {
+      "name": "Remix Render Stack",
+      "description": "A Remix stack for deploying remix to render.com with postgres",
+      "tags": ["prism", "render.com", "postgresql"],
+      "url": "https://github.com/TerribleDev/remix-render"
     }
   ]
 }
