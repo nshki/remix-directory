@@ -97,6 +97,24 @@
       "url": "https://github.com/VulcanJS/eurodance-stack"
     },
     {
+      "name": "Air Metal Stack",
+      "description": "A Remix stack setup to run on Deno with support for Rust WASM modules!",
+      "tags": ["deno", "deno deploy", "rust", "webassembly"],
+      "url": "https://github.com/benwis/air-metal-stack"
+    },
+    {
+      "name": "French House Stack",
+      "description": "The Remix Stack for Web2 apps and Web3 DApps with authentication with Magic, testing, linting, formatting, etc.",
+      "tags": ["magic", "cypress", "vitest", "testing library", "tailwind", "github actions", "prettier", "eslint", "husky", "typescript", "web3", "i18n"],
+      "url": "https://github.com/janhesters/french-house-stack"
+    },
+    {
+      "name": "Minimal House Remix Stack",
+      "description": "The Remix Stack to setup Remix with minimal typsescript, tailwind, linting, and formatting. Worry about storage, testing, deployment later.",
+      "tags": ["eslint", "typescript", "prettier", "tailwind"],
+      "url": "https://github.com/BogDAAAMN/minimal-remix-stack"
+    },
+    {
       "name": "New Wave Stack",
       "description": "Custom Remix stack using Clerk for authentication and full user management.",
       "tags": ["clerk", "fauna", "netlify", "tailwind", "cypress", "jest", "testing library", "eslint", "typescript"],
