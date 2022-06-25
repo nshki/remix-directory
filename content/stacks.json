@@ -101,6 +101,12 @@
       "description": "A Remix stack setup to run on Deno with support for Rust WASM modules!",
       "tags": ["deno", "deno deploy", "rust", "webassembly"],
       "url": "https://github.com/benwis/air-metal-stack"
+    },
+    {
+      "name": "French House Stack",
+      "description": "The Remix Stack for Web2 apps and Web3 DApps with authentication with Magic, testing, linting, formatting, etc.",
+      "tags": ["magic", "cypress", "vitest", "testing library", "tailwind", "github actions", "prettier", "eslint", "husky", "typescript", "web3", "i18n"],
+      "url": "https://github.com/janhesters/french-house-stack"
     }
   ]
 }
