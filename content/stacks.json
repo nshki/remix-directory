@@ -95,6 +95,12 @@
       "description": "The Remix Stack for GraphQL developers, brought by Vulcan.",
       "tags": ["vercel", "graphql", "storybook", "mongo", "codesandbox"],
       "url": "https://github.com/VulcanJS/eurodance-stack"
+    },
+    {
+      "name": "Air Metal Stack",
+      "description": "A Remix stack setup to run on Deno with support for Rust WASM modules!",
+      "tags": ["deno", "deno deploy", "rust", "webassembly"],
+      "url": "https://github.com/benwis/air-metal-stack"
     }
   ]
 }
