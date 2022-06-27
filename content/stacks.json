@@ -100,7 +100,7 @@
       "name": "Indie Thin Stack",
       "description": "The Remix Stack for deploying to Fly or simple Node server with authentication, testing, linting, formatting, etc. Great for integrating with headless CMS",
       "tags": ["fly", "docker", "github actions", "tailwind", "cypress", "msw", "vitest", "testing library", "prettier", "eslint", "typescript"],
-      "url": "https://github.com/VulcanJS/eurodance-stack"
+      "url": "https://github.com/alvinthen/indie-thin-stack"
     }
   ]
 }
