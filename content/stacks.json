@@ -79,6 +79,12 @@
       "url": "https://github.com/ShafSpecs/rockspec-stack"
     },
     {
+      "name": "The Bossa Nova Stack",
+      "description": "The Remix Stack with Clerk authentication, Supabase database, Chakra UI, testing, linting, and more.",
+      "tags": ["vercel", "supabase", "postgres", "clerk", "cypress", "prettier", "eslint", "typescript", "chakra"],
+      "url": "https://github.com/clerkinc/remix-bossa-nova-stack"
+    },
+    {
       "name": "Chop Suey Stack",
       "description": "A template for deploying Remix to Fly with EdgeDB. Comes with Clerk for simple authentication and opinionated configs for TypeScript, Prettier, and ESLint.",
       "tags": ["fly", "edgedb", "clerk", "prisma", "cypress", "prettier", "eslint", "typescript", "tailwind", "zod", "msw", "testing library", "github actions", "react hot toast", "react icons"],
