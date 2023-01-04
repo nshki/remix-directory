@@ -106,8 +106,9 @@
       "name": "Indie Thin Stack",
       "description": "The Remix Stack for deploying to Fly or simple Node server with authentication, testing, linting, formatting, etc. Great for integrating with headless CMS",
       "tags": ["fly", "docker", "github actions", "tailwind", "cypress", "msw", "vitest", "testing library", "prettier", "eslint", "typescript"],
-      "url": "https://github.com/alvinthen/indie-thin-stack",
-
+      "url": "https://github.com/alvinthen/indie-thin-stack"
+    },
+    {
       "name": "Air Metal Stack",
       "description": "A Remix stack setup to run on Deno with support for Rust WASM modules!",
       "tags": ["deno", "deno deploy", "rust", "webassembly"],
