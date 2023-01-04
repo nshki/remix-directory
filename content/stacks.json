@@ -79,6 +79,12 @@
       "url": "https://github.com/ShafSpecs/rockspec-stack"
     },
     {
+      "name": "The Bossa Nova Stack",
+      "description": "The Remix Stack with Clerk authentication, Supabase database, Chakra UI, testing, linting, and more.",
+      "tags": ["vercel", "supabase", "postgres", "clerk", "cypress", "prettier", "eslint", "typescript", "chakra"],
+      "url": "https://github.com/clerkinc/remix-bossa-nova-stack"
+    },
+    {
       "name": "Chop Suey Stack",
       "description": "A template for deploying Remix to Fly with EdgeDB. Comes with Clerk for simple authentication and opinionated configs for TypeScript, Prettier, and ESLint.",
       "tags": ["fly", "edgedb", "clerk", "prisma", "cypress", "prettier", "eslint", "typescript", "tailwind", "zod", "msw", "testing library", "github actions", "react hot toast", "react icons"],
@@ -100,7 +106,48 @@
       "name": "Indie Thin Stack",
       "description": "The Remix Stack for deploying to Fly or simple Node server with authentication, testing, linting, formatting, etc. Great for integrating with headless CMS",
       "tags": ["fly", "docker", "github actions", "tailwind", "cypress", "msw", "vitest", "testing library", "prettier", "eslint", "typescript"],
-      "url": "https://github.com/alvinthen/indie-thin-stack"
+      "url": "https://github.com/alvinthen/indie-thin-stack",
+
+      "name": "Air Metal Stack",
+      "description": "A Remix stack setup to run on Deno with support for Rust WASM modules!",
+      "tags": ["deno", "deno deploy", "rust", "webassembly"],
+      "url": "https://github.com/benwis/air-metal-stack"
+    },
+    {
+      "name": "French House Stack",
+      "description": "The Remix Stack for Web2 apps and Web3 DApps with authentication with Magic, testing, linting, formatting, etc.",
+      "tags": ["magic", "cypress", "vitest", "testing library", "tailwind", "github actions", "prettier", "eslint", "husky", "typescript", "web3", "i18n"],
+      "url": "https://github.com/janhesters/french-house-stack"
+    },
+    {
+      "name": "Minimal House Remix Stack",
+      "description": "The Remix Stack to setup Remix with minimal typsescript, tailwind, linting, and formatting. Worry about storage, testing, deployment later.",
+      "tags": ["eslint", "typescript", "prettier", "tailwind"],
+      "url": "https://github.com/BogDAAAMN/minimal-remix-stack"
+    },
+    {
+      "name": "New Wave Stack",
+      "description": "Custom Remix stack using Clerk for authentication and full user management.",
+      "tags": ["clerk", "fauna", "netlify", "tailwind", "cypress", "jest", "testing library", "eslint", "typescript"],
+      "url": "https://github.com/charles-clerk-dev/new-wave-stack"
+    },
+    {
+      "name": "Remix Render Stack",
+      "description": "A Remix stack for deploying remix to render.com with postgres",
+      "tags": ["prism", "render.com", "postgresql"],
+      "url": "https://github.com/TerribleDev/remix-render"
+    },
+    {
+      "name": "Techno Stack",
+      "description": "The Remix Stack for deploying to Kubernetes, talking to an existing Postgres Db, authentication, testing, linting, formatting, etc.",
+      "tags": ["kubernetes", "docker", "github actions", "prisma", "tailwind", "cypress", "msw", "vitest", "testing library", "eslint", "typescript"],
+      "url": "https://github.com/BenMcH/techno-stack"
+    },
+    {
+      "name": "Prog Stack",
+      "description": "Adapted from blues. Prisma is brilliant, but I like Hasura. Hasura is like prog, it gets better every time you get into it.",
+      "tags": ["hasura", "fly", "docker", "tailwind", "cypress", "msw", "vitest", "testing library", "eslint", "typescript"],
+      "url": "https://github.com/k1sul1/prog-stack"
     }
   ]
 }
