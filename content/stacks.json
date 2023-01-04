@@ -150,10 +150,10 @@
       "url": "https://github.com/k1sul1/prog-stack"
     },
     {
-    "name": "Acoustic Stack",
-    "description": "A minimal Remix stack to serve as a starting point for demos and debugging.",
-    "tags": ["tailwind", "vitest", "testing library", "prettier", "eslint", "typescript"],
-    "url": "https://github.com/colbywhite/acoustic-stack"
+      "name": "Acoustic Stack",
+      "description": "A minimal Remix stack to serve as a starting point for demos and debugging.",
+      "tags": ["tailwind", "vitest", "testing library", "prettier", "eslint", "typescript"],
+      "url": "https://github.com/colbywhite/acoustic-stack"
     }
   ]
 }
