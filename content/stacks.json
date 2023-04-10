@@ -1,5 +1,11 @@
 {
   "stacks": [
+     {
+      "name": "The Non Stack",
+      "description": " Non Stack -Starter for remix app. It includes authentication . There is no deployment support, so you can deploy to where ever you want. It also doesn't have any tests. Suitable for beginners.",
+      "tags": ["docker", "sqlite", "auth", "prisma", "tailwind", "prettier", "eslint", "typescript"],
+      "url": "https://github.com/Ekbal41/non-stack"
+    },
     {
       "name": "The Blues Stack",
       "description": "Deployed to the edge (distributed) with a long-running Node.js server and PostgreSQL database. Intended for large and fast production-grade applications serving millions of users.",
